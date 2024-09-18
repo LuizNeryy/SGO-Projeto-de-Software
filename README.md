@@ -23,15 +23,32 @@ O Sistema de Gestão das Olimpíadas (SGO) é uma aplicação destinada a gerenc
 
 ## Histórias de Usuário
 
-- **US01 - Cadastrar Competição**: Como administrador, quero cadastrar competições para que eu possa gerenciar os eventos das Olimpíadas.
-- **US02 - Inscrever Atleta**: Como atleta, quero me inscrever em competições para participar dos eventos.
-- **US03 - Alocar Local**: Como administrador, quero alocar locais para as competições para evitar conflitos de horário.
-- **US04 - Registrar Resultados**: Como juiz, quero registrar os resultados das competições para determinar os vencedores.
-- **US05 - Gerar Relatórios de Medalhas**: Como analista, quero gerar relatórios de medalhas para avaliar o desempenho dos países.
-- **US06 - Editar Competição**: Como administrador, quero poder editar as informações de uma competição já cadastrada para corrigir erros ou atualizar detalhes como data, horário ou local.
-- **US07 - Cancelar Inscrição de Atleta**: Como atleta, quero poder cancelar minha inscrição em uma competição caso não possa participar, para que minha vaga possa ser disponibilizada para outro atleta.
-- **US08 - Atualizar Resultados**: Como juiz, quero poder atualizar os resultados das competições se houver algum erro na entrada dos dados ou alterações nos resultados, para garantir que as informações estejam corretas.
-- **US09 - Visualizar Relatório de Medalhas por País**: Como gestor, quero visualizar um relatório detalhado das medalhas conquistadas por cada país para analisar o desempenho geral e tomar decisões estratégicas para futuras competições.
+- **US01 - Cadastrar Competição**:  
+   *Como administrador, quero cadastrar competições* para que eu possa gerenciar os eventos das Olimpíadas, incluindo informações sobre modalidade, data, horário, local e lista de atletas inscritos.
+  
+- **US02 - Inscrever Atleta**:  
+   *Como atleta, quero me inscrever em competições* para participar dos eventos e garantir que minha participação esteja registrada no sistema.
+
+- **US03 - Alocar Local**:  
+   *Como administrador, quero alocar locais para as competições* para evitar conflitos de horário e garantir que cada competição tenha um local disponível.
+
+- **US04 - Registrar Resultados**:  
+   *Como juiz, quero registrar os resultados das competições* para determinar os vencedores e os classificados em segundo e terceiro lugares.
+
+- **US05 - Gerar Relatórios de Medalhas**:  
+   *Como comitê, quero gerar relatórios de medalhas* para avaliar o desempenho dos países com base nas medalhas de ouro, prata e bronze conquistadas.
+
+6- **US06 - Editar Competição**:  
+   *Como administrador, quero poder editar as informações de uma competição já cadastrada* para corrigir erros ou atualizar detalhes como data, horário ou local, garantindo que a competição esteja corretamente configurada.
+
+7- **US07 - Cancelar Inscrição de Atleta**:  
+   *Como atleta, quero poder cancelar minha inscrição em uma competição* caso não possa participar, para que minha vaga possa ser disponibilizada para outro atleta e o sistema seja atualizado com as informações corretas.
+
+8- **US08 - Atualizar Resultados**:  
+   *Como juiz, quero poder atualizar os resultados das competições* se houver algum erro na entrada dos dados ou se houver mudanças após a revisão dos resultados, para garantir que as informações estejam corretas e atualizadas.
+
+9- **US09 - Visualizar Relatório de Medalhas por País**:  
+   *Como comitê, quero visualizar um relatório detalhado das medalhas conquistadas por cada país* para analisar o desempenho geral e usar essas informações para tomadas de decisão estratégicas em futuras competições.
 
 ## Diagramas
 
