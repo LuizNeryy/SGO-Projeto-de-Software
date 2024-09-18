@@ -44,11 +44,11 @@ O Sistema de Gestão das Olimpíadas (SGO) é uma aplicação destinada a gerenc
 - **Classes Principais:** Competição, Atleta, Local, Resultado, País.
 
 ### Diagrama de Componentes
-![Diagrama de Componentes](imagens/diagrama-de-componentes)
+![Diagrama de Componentes](imagens/Diagrama-de-componentes.jpg)
 - **Componentes:** Interface de Usuário, Módulo de Inscrições, Módulo de Alocação, Módulo de Relatórios.
 
 ### Diagrama de Implantação
-![Diagrama de Implantação](imagens/diagrama-de-implantacao)
+![Diagrama de Implantação](imagens/Diagrama-de-Implantação.jpg)
 - **Arquitetura Física:** Servidores, Bancos de Dados, Dispositivos dos Usuários.
 
 ## Arquivos do Repositório
