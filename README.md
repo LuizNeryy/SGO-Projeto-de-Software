@@ -38,16 +38,16 @@ O Sistema de Gestão das Olimpíadas (SGO) é uma aplicação destinada a gerenc
 - **US05 - Gerar Relatórios de Medalhas**:  
    *Como comitê, quero gerar relatórios de medalhas* para avaliar o desempenho dos países com base nas medalhas de ouro, prata e bronze conquistadas.
 
-6- **US06 - Editar Competição**:  
+- **US06 - Editar Competição**:  
    *Como administrador, quero poder editar as informações de uma competição já cadastrada* para corrigir erros ou atualizar detalhes como data, horário ou local, garantindo que a competição esteja corretamente configurada.
 
-7- **US07 - Cancelar Inscrição de Atleta**:  
+- **US07 - Cancelar Inscrição de Atleta**:  
    *Como atleta, quero poder cancelar minha inscrição em uma competição* caso não possa participar, para que minha vaga possa ser disponibilizada para outro atleta e o sistema seja atualizado com as informações corretas.
 
-8- **US08 - Atualizar Resultados**:  
+- **US08 - Atualizar Resultados**:  
    *Como juiz, quero poder atualizar os resultados das competições* se houver algum erro na entrada dos dados ou se houver mudanças após a revisão dos resultados, para garantir que as informações estejam corretas e atualizadas.
 
-9- **US09 - Visualizar Relatório de Medalhas por País**:  
+- **US09 - Visualizar Relatório de Medalhas por País**:  
    *Como comitê, quero visualizar um relatório detalhado das medalhas conquistadas por cada país* para analisar o desempenho geral e usar essas informações para tomadas de decisão estratégicas em futuras competições.
 
 ## Diagramas
