@@ -36,34 +36,34 @@ O Sistema de Gestão das Olimpíadas (SGO) é uma aplicação destinada a gerenc
 ## Diagramas
 
 ### Diagrama de Caso de Uso
-![Diagrama de Caso de Uso](imagens/diagrama-de-caso-de-uso.png)
+![Diagrama de Caso de Uso](imagens/diagrama-de-caso-de-uso)
 - **Casos de Uso Principais:** Cadastrar Competição, Inscrever Atleta, Alocar Local, Registrar Resultados.
 
 ### Diagrama de Classes
-![Diagrama de Classes](imagens/diagrama-de-classes.png)
+![Diagrama de Classes](imagens/diagrama-de-classes)
 - **Classes Principais:** Competição, Atleta, Local, Resultado, País.
 
 ### Diagrama de Pacotes
-![Diagrama de Pacotes](imagens/diagrama-de-pacotes.png)
+![Diagrama de Pacotes](imagens/diagrama-de-pacotes)
 - **Pacotes:** Pacote de Inscrições, Pacote de Alocação, Pacote de Relatórios, etc.
 
 ### Diagrama de Componentes
-![Diagrama de Componentes](imagens/diagrama-de-componentes.png)
+![Diagrama de Componentes](imagens/diagrama-de-componentes)
 - **Componentes:** Interface de Usuário, Módulo de Inscrições, Módulo de Alocação, Módulo de Relatórios.
 
 ### Diagrama de Implantação
-![Diagrama de Implantação](imagens/diagrama-de-implantacao.png)
+![Diagrama de Implantação](imagens/diagrama-de-implantacao)
 - **Arquitetura Física:** Servidores, Bancos de Dados, Dispositivos dos Usuários.
 
 ## Arquivos do Repositório
 
 - `README.md` - Este arquivo de documentação.
 - `imagens/` - Pasta contendo as imagens dos diagramas.
-  - `diagrama-de-caso-de-uso.png`
-  - `diagrama-de-classes.png`
-  - `diagrama-de-pacotes.png`
-  - `diagrama-de-componentes.png`
-  - `diagrama-de-implantacao.png`
+  - `diagrama-de-caso-de-uso`
+  - `diagrama-de-classes`
+  - `diagrama-de-pacotes`
+  - `diagrama-de-componentes`
+  - `diagrama-de-implantacao`
 - `modelagens/` - Pasta contendo os arquivos de modelagem dos diagramas.
   - `diagrama-de-caso-de-uso.drawio` 
   - `diagrama-de-classes.drawio`
