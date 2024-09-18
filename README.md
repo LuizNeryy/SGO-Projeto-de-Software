@@ -55,18 +55,4 @@ O Sistema de Gestão das Olimpíadas (SGO) é uma aplicação destinada a gerenc
 ![Diagrama de Implantação](imagens/diagrama-de-implantacao.png)
 - **Arquitetura Física:** Servidores, Bancos de Dados, Dispositivos dos Usuários.
 
-## Arquivos do Repositório
 
-- `README.md` - Este arquivo de documentação.
-- `imagens/` - Pasta contendo as imagens dos diagramas.
-  - `diagrama-de-caso-de-uso.png`
-  - `diagrama-de-classes.png`
-  - `diagrama-de-pacotes.png`
-  - `diagrama-de-componentes.png`
-  - `diagrama-de-implantacao.png`
-- `modelagens/` - Pasta contendo os arquivos de modelagem dos diagramas.
-  - `diagrama-de-caso-de-uso.drawio` (ou `.astah`)
-  - `diagrama-de-classes.drawio` (ou `.astah`)
-  - `diagrama-de-pacotes.drawio` (ou `.astah`)
-  - `diagrama-de-componentes.drawio` (ou `.astah`)
-  - `diagrama-de-implantacao.drawio` (ou `.astah`)
