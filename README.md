@@ -25,7 +25,7 @@ O Sistema de Gestão das Olimpíadas (SGO) é uma aplicação destinada a gerenc
 
 - **US01 - Cadastrar Competição**: Como administrador, quero cadastrar competições para que eu possa gerenciar os eventos das Olimpíadas.
 - **US02 - Inscrever Atleta**: Como atleta, quero me inscrever em competições para participar dos eventos.
-- **US03 - Alocar Local**: Como coordenador, quero alocar locais para as competições para evitar conflitos de horário.
+- **US03 - Alocar Local**: Como administrador, quero alocar locais para as competições para evitar conflitos de horário.
 - **US04 - Registrar Resultados**: Como juiz, quero registrar os resultados das competições para determinar os vencedores.
 - **US05 - Gerar Relatórios de Medalhas**: Como analista, quero gerar relatórios de medalhas para avaliar o desempenho dos países.
 - **US06 - Editar Competição**: Como administrador, quero poder editar as informações de uma competição já cadastrada para corrigir erros ou atualizar detalhes como data, horário ou local.
