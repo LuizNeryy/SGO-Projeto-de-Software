@@ -39,13 +39,9 @@ O Sistema de Gestão das Olimpíadas (SGO) é uma aplicação destinada a gerenc
 ![Diagrama de Caso de Uso](imagens/diagrama-de-caso-de-uso.jpeg)
 - **Casos de Uso Principais:** Cadastrar Competição, Inscrever Atleta, Alocar Local, Registrar Resultados.
 
-### Diagrama de Classes
-![Diagrama de Classes](imagens/diagrama-de-classes.jpeg)
+### Diagrama de Classes e de Pacotes
+![Diagrama de Classes](imagens/diagrama-de-classes-e-pacotes.jpeg)
 - **Classes Principais:** Competição, Atleta, Local, Resultado, País.
-
-### Diagrama de Pacotes
-![Diagrama de Pacotes](imagens/diagrama-de-pacotes)
-- **Pacotes:** Pacote de Inscrições, Pacote de Alocação, Pacote de Relatórios, etc.
 
 ### Diagrama de Componentes
 ![Diagrama de Componentes](imagens/diagrama-de-componentes)
